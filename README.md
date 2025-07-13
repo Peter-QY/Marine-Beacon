@@ -1,2 +1,3 @@
 # Marine-Beacon
-This is the project of the "Towards the Deep Blue" team for the 2025 Marine Vessel Design Competition, with the track position being New Concept A1.
+# 海上信标
+这是2025年海洋航行器设计大赛走向深蓝队的项目，赛道为新概念A1。
